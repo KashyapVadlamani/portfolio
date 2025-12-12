@@ -1,13 +1,18 @@
 body{
     background-color: #ffebcd;
-    text-align: center;
+
 }
 h1{
-    color:#4e4537
+    color: black;
 }
 p{
-    color:#b5aa99;
+  color: black;
 }
-a{
-    
+.nav{
+    color:black;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
 }
